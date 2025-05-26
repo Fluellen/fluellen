@@ -5,9 +5,9 @@ I'm a Data Scientist and AI/ML enthusiast 🤖 with a knack for turning data int
 ```python
 class DataExplorer:
     def __init__(self):
-        self.name = "Marcell Méri" # [assume not in context]
-        self.passion = ["Data Science", "AI/ML", "Business Optimization", "Data-driven Solutions"] # [assume not in context]
-        self.current_focus = "Building awesome forecasting models & AI tools" # [assume not in context]
+        self.name = "Marcell Méri" 
+        self.passion = ["Data Science", "AI/ML", "Business Optimization", "Data-driven Solutions"] 
+        self.current_focus = "Building awesome forecasting models & AI tools"
 
     def whats_new(self):
         print("Currently a Demand Forecast Data Scientist at SymphonyAI, helping clients optimize their supply chains! 🚚 Also spearheading a GenAI initiative. ✨") # 
