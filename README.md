@@ -18,7 +18,7 @@ me.whats_new()
 
 ### A Bit About My Journey 🗺️
 
-*   **Currently:** As a **Demand Forecast Data Scientist** at **SymphonyAI** (Apr 2024 - Present), I'm designing and building data pipelines for top-notch operational forecasts. I also get to advise clients on AI-driven strategies.
+*   **Currently:** As a **Demand Forecast Data Scientist** at **SymphonyAI**, I'm designing and building data pipelines for top-notch operational forecasts. I also get to advise clients on AI-driven strategies.
     
 *   **Previously:**
     
