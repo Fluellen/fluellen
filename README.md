@@ -1,11 +1,5 @@
 # Hey there, I'm Marcell! 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcellम्याउ/Marcellम्याउ/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcellम्याउ/Marcellम्याउ/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Marcellम्याउ/Marcellम्याउ/output/github-contribution-grid-snake.svg">
-</picture>
-
 I'm a Data Scientist and AI/ML enthusiast 🤖 with a knack for turning data into impactful solutions. I love diving into data preparation, modeling, analysis, and visualization[cite: 1, 2]. My background also includes master data management, retail forecasting, e-commerce, and business process optimization[cite: 3].
 
 ```python
@@ -20,6 +14,7 @@ class DataExplorer:
 
 me = DataExplorer()
 me.whats_new()
+```
 
 ### A Bit About My Journey 🗺️
 
