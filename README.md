@@ -1,6 +1,6 @@
 # Hey there, I'm Marcell! 👋
 
-I'm a Data Scientist and AI/ML enthusiast 🤖 with a knack for turning data into impactful solutions. I love diving into data preparation, modeling, analysis, and visualization[cite: 1, 2]. My background also includes master data management, retail forecasting, e-commerce, and business process optimization[cite: 3].
+I'm a Data Scientist and AI/ML enthusiast 🤖 with a knack for turning data into impactful solutions. I love diving into data preparation, modeling, analysis, and visualization. My background also includes master data management, retail forecasting, e-commerce, and business process optimization.
 
 ```python
 class DataExplorer:
@@ -10,7 +10,7 @@ class DataExplorer:
         self.current_focus = "Building awesome forecasting models & AI tools" # [assume not in context]
 
     def whats_new(self):
-        print("Currently a Demand Forecast Data Scientist at SymphonyAI, helping clients optimize their supply chains! 🚚 Also spearheading a GenAI initiative. ✨") # [cite: 4, 23]
+        print("Currently a Demand Forecast Data Scientist at SymphonyAI, helping clients optimize their supply chains! 🚚 Also spearheading a GenAI initiative. ✨") # 
 
 me = DataExplorer()
 me.whats_new()
