@@ -22,7 +22,7 @@ me.whats_new()
     
 *   **Previously:**
 
-    *   **SymphonAI** (Data Scientist, Apr 2024 - May 2026): Delivered state-of-the-art operational forecasts that empowered global retail and CPG clients to optimise their replenishment planning and supply chain operations and implemented AI agents with RAG that streamlined workflows and boost team productivity.
+    *   **SymphonyAI** (Data Scientist, Apr 2024 - May 2026): Delivered state-of-the-art operational forecasts that empowered global retail and CPG clients to optimise their replenishment planning and supply chain operations and implemented AI agents with RAG that streamlined workflows and boost team productivity.
     
     *   **Sony Europe** (Junior Data Analyst, Aug 2023 - Nov 2023): Streamlined data processes and built dashboards to boost customer experience and cut costs. I also ensured master data was accurate using SQL and ETL.
         
